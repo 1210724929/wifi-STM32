@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>D:/壁纸/a3.jpg</file>
+        <file>D:/壁纸/a1.jpg</file>
+        <file>D:/壁纸/a2.jpg</file>
+        <file>../../img/alert.png</file>
+        <file>../../img/error.png</file>
+        <file>../../img/right.png</file>
+        <file>../../img/tiem.png</file>
+    </qresource>
+</RCC>
